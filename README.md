@@ -1,38 +1,78 @@
-# 👋 Hi there, I'm Nagarwal
+# Hi 👋 I'm Nitisha Agarwal
 
-### 🚀 About Me
-- 💻 **QA Engineer** with **10+ years of experience** in Python Automation Testing.
-- 🔧 Skilled in building robust test automation frameworks using **Selenium**, **Pytest**, **Cypress** and **Appium**.
-- 🛠️ Passionate about improving software quality through automation and CI/CD pipelines.
+Senior QA Automation Engineer with 12+ years of experience in building scalable automation frameworks and improving software quality.
 
----
-
-### 📂 My Key Projects
-- 🔍 [Automation Framework Demo](https://github.com/Nagarwal06/automation-framework-demo): A Python-based test automation framework using Selenium and Pytest.
-- 📊 [Test Dashboard](https://github.com/Nagarwal06/test-dashboard): Automated reporting tool with detailed test metrics.
-- 🌐 [Web App Test Suite](https://github.com/Nagarwal06/web-app-test-suite): End-to-end test cases for a sample web application.
+📍 Gothenburg, Sweden
 
 ---
 
-### 🌟 My Skills
-- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-Expert-brightgreen), JavaScript
-- **Frameworks**: ![Selenium](https://img.shields.io/badge/Selenium-Automation-blue), ![Pytest](https://img.shields.io/badge/Pytest-Testing-orange), Cypress, Robot framework
-- **CI/CD Tools**: Jenkins, ![Git](https://img.shields.io/badge/Git-Version_Control-orange)
-- **Testing Strategies**: Test Automation, Performance Testing, Load Testing
+## About Me
+
+• Python QA Automation Engineer  
+• 12+ years in software testing and automation  
+• Experience in cloud, and enterprise platforms  
+• Passionate about building reliable automation frameworks
+
+Currently exploring **AI-powered testing and GenAI applications in QA.**
 
 ---
 
-### 🏆 Certifications
-- ![SAFe Scrum Master](https://img.shields.io/badge/SAFe%20Scrum%20Master-Certified-blue)
-- ![ISTQB](https://img.shields.io/badge/ISTQB-Certified-brightgreen)
+## Technical Skills
+
+Programming  
+Python, JavaScript
+
+Automation  
+Selenium, PyTest, Cypress, Robot Framework, Playwright
+
+Testing
+Test Automation  
+API Testing  
+Performance Testing  
+Load Testing
+
+DevOps
+CI/CD Pipelines  
+Jenkins  
+Git  
+Docker (learning)
 
 ---
 
-### 🔗 Let's Connect
-- 📘 [LinkedIn](https://www.linkedin.com/in/nitisha-agarwal-690529186/)
-- 📝 [Blog]
-- ✉️ Email: ct.nitishag@gmail.com
+## Featured Projects
+
+AI Selenium Test Generator  
+AI-based tool that converts user stories into Selenium automation scripts.
+
+Cypress Automation Framework  
+End-to-end testing framework built using Cypress and Page Object Model.
+
+QA Portfolio  
+Collection of automation examples, testing artifacts, and QA documentation.
 
 ---
 
-✨ *Feel free to explore my repositories and connect with me for any help!*
+## Current Learning Journey
+
+Exploring the intersection of **Artificial Intelligence and Software Testing**
+
+Topics I am learning:
+
+• LLM testing  
+• AI test case generation  
+• Prompt engineering for QA  
+• AI-assisted automation frameworks
+
+---
+
+## Certifications
+
+SAFe Scrum Master  
+ISTQB Certified Tester
+
+---
+
+## Connect With Me
+
+LinkedIn (https://www.linkedin.com/in/nitisha-agarwal-690529186/)    
+Email: ct.nitishag@gmail.com
